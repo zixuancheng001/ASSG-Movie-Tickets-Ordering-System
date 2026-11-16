@@ -8,6 +8,18 @@ A console-based movie ticket booking and ordering system developed in C++.
 - Membership Discount - Automatic discount validation based on customer membership status
 - Billing & Receipt - Automated total price calculation and order summary generation
 
+---
+
+## How to Run Locally
+
+1. **Prerequisites**: Install **Visual Studio 2022** with the **Desktop development with C++** workload (or any standard C++ compiler such as `g++`).
+2. **Download**: Clone this repository or click **Code** -> **Download ZIP** and extract it to a local folder.
+3. **Open & Run (Visual Studio)**:
+   - Double-click `MovieTicketSystem.sln` in the root directory to open the solution.
+   - Press `Ctrl + F5` (or click **Debug** -> **Start Without Debugging**) to compile and launch the console application.
+
+---
+
 ### 1. Home Page
 <img width="1427" height="630" alt="image" src="https://github.com/user-attachments/assets/0ee1d45d-36cc-466b-83d7-e7412c459506" />
 
