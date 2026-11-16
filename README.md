@@ -7,3 +7,9 @@ A console-based movie ticket booking and ordering system developed in C++.
 - Food & Drinks Ordering - Interactive food menu with item codes, quantity selection, and subtotal calculation
 - Membership Discount - Automatic discount validation based on customer membership status
 - Billing & Receipt - Automated total price calculation and order summary generation
+
+<img width="1427" height="630" alt="image" src="https://github.com/user-attachments/assets/0ee1d45d-36cc-466b-83d7-e7412c459506" />
+<img width="1432" height="692" alt="image" src="https://github.com/user-attachments/assets/9837fe1f-a06f-4570-8b70-0a37efae85aa" />
+<img width="1452" height="771" alt="image" src="https://github.com/user-attachments/assets/bc778f0b-9464-4930-8870-e67cc1418556" />
+<img width="567" height="595" alt="image" src="https://github.com/user-attachments/assets/b2754732-6bd0-45c1-997e-bc41d5610a71" />
+<img width="882" height="1010" alt="image" src="https://github.com/user-attachments/assets/6573ecd9-df8a-4a8e-85fc-b218af2b5f40" />
